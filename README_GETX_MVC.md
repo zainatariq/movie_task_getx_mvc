@@ -17,7 +17,7 @@ A Flutter movie application utilizing GetX for state management and MVC (Model-V
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/flutter_movie_app.git
+   git clone https://github.com/zainatariq/movie_task_getx_mvc.git
    cd flutter_movie_app
    ```
 
